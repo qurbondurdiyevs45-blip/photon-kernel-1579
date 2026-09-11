@@ -1,0 +1,15 @@
+{
+  "name": "photon-kernel-1579",
+  "version": "0.1.0",
+  "generator": "PushForge Engine",
+  "capabilities": [
+    "ideate",
+    "compose",
+    "commit"
+  ],
+  "manifest": {
+    "entry": "src/index.ts",
+    "seed": 2627,
+    "createdAt": "2026-09-11T15:17:40.219Z"
+  }
+}
